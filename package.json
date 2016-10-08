@@ -4,6 +4,11 @@
   "version": "0.1.0",
   "description": "Prevents accidental duplications of open files when working with split panes",
   "keywords": [
+      "atom",
+      "pane",
+      "panes",
+      "dedupe",
+      "files"
   ],
   "repository": "https://github.com/MiracleBlue/atom-dedupe-open-files",
   "license": "MIT",
