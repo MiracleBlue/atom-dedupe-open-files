@@ -1,0 +1,15 @@
+{
+  "name": "dedupe-open-files",
+  "main": "./lib/dedupe-open-files",
+  "version": "0.1.0",
+  "description": "Prevents accidental duplications of open files when working with split panes",
+  "keywords": [
+  ],
+  "repository": "https://github.com/MiracleBlue/dedupe-open-files",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
